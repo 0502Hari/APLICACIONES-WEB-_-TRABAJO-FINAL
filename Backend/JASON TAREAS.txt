@@ -1,0 +1,109 @@
+Caption: Se considera para el ejemplo, las siguientes etiquetas: Rojo (temas personales), Verde (asuntos laborales) y Azul (Estudios)
+JASON TAREAS:
+
+{
+	"Titulo": "Hacer Ejercicios",
+	"Descripcion":"Para mantener nuestra salud",
+	"Prioridad":3,
+	"Frecuencia": "Diaria"
+	
+}
+
+{
+	"Titulo": "Lavar la ropa",
+	"Descripcion":"Urgente, que se acumula",
+	"Prioridad":2,
+	"Frecuencia": "Semanal"
+	
+}
+{
+	"Titulo": "Comer",
+	"Descripcion":"No se te olvide alimentarte, mantener la salud",
+	"Prioridad":1,
+	"Frecuencia": "Diario"
+	
+}
+{
+	"Titulo": "Tratamiento Vitamínico",
+	"Descripcion":"Mantener la buena salud",
+	"Prioridad":2,
+	"Frecuencia": "Diario"
+	
+}
+{
+	"Titulo": "Visita Dentista",
+	"Descripcion":"Mínimo una vez al año",
+	"Prioridad":1,
+	"Frecuencia": "Anual"
+	
+}
+{
+	"Titulo": "Pagar SOAT, Revisión Técnica del auto",
+	"Descripcion":"En Octubre se vencen todos los papeles",
+	"Prioridad":1,
+	"Frecuencia": "Anual"
+	
+}
+{
+	"Titulo": "Pago de la Colegiatura",
+	"Descripcion":"El plazo vence a fin de mes",
+	"Prioridad":3,
+	"Frecuencia": "Mensual"
+	
+}
+{
+	"Titulo": "Pago de Servicios del Hogar",
+	"Descripcion":"Agua, Luz,Internet, Gas,Alquiler,Celular",
+	"Prioridad":1,
+	"Frecuencia": "Mensual"
+	
+}
+{
+	"Titulo": "Compras de insumos del hogar",
+	"Descripcion":"Supermercado, Mercado",
+	"Prioridad":2,
+	"Frecuencia": "Semanal"
+	
+}
+{
+	"Titulo": "Compras de insumos del hogar",
+	"Descripcion":"Supermercado, Mercado",
+	"Prioridad":2,
+	"Frecuencia": "Semanal"
+	
+}
+{
+	"Titulo": "Compra de Artículos Personales",
+	"Descripcion":"Bloqueador, Maquillaje, Etc.",
+	"Prioridad":6,
+	"Frecuencia": "Mensual"
+	
+}
+{
+	"Titulo": "Obsequios",
+	"Descripcion":"Presentes para familiares, amigos, compañeros de trabajo",
+	"Prioridad":9,
+	"Frecuencia": "Mensual"
+	
+}
+{
+	"Titulo": "Obtener Licencia de Conducir",
+	"Descripcion":"Después de obtenerla, sólo renovar",
+	"Prioridad":5,
+	"Frecuencia": "Una Vez"
+	
+}
+{
+	"Titulo": "Tarea 1",
+	"Descripcion":" la ala la al ",
+	"Prioridad":9,
+	"Frecuencia": "Mensual"
+	
+}
+{
+	"Titulo": "Tarea 2",
+	"Descripcion":" bla bala la al ",
+	"Prioridad":9,
+	"Frecuencia": "Mensual"
+	
+}

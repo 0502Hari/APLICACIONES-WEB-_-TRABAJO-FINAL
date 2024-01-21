@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "6584f4157ff48f22d35172c8"
+  },
+  "Titulo": "Hacer Ejercicios",
+  "Descripcion": "Para mantener nuestra salud",
+  "Prioridad": 3,
+  "Frecuencia": "Diaria",
+  "Etiqueta": "Roja",
+  "id_Usuario": "65850e9376bc0d2ffb8e102f"
+},
+{
+  "_id": {
+    "$oid": "6584f5a07ff48f22d35172c9"
+  },
+  "Titulo": "Pago Maestría",
+  "Descripción": "Se debe pagar la mensualidad de la maestría",
+  "Prioridad": 1,
+  "Frecuencia": "Mensual",
+  "Etiqueta": "Azul",
+  "id_Usuario": "65850e9376bc0d2ffb8e102f"
+},
+{
+  "_id": {
+    "$oid": "6584f60f7ff48f22d35172ce"
+  },
+  "Titulo": "Tarea 4",
+  "Descripcion": "Prueba",
+  "Prioridad": 1,
+  "Frecuencia": "Semanal",
+  "Etiqueta": "Blanca",
+  "id_Usuario": "65850e9376bc0d2ffb8e102f"
+},
+{
+  "_id": {
+    "$oid": "6584fa297ff48f22d35172cf"
+  },
+  "Titulo": "Hacer Ejercicios",
+  "Descripcion": "Para mantener nuestra salud",
+  "Prioridad": 3,
+  "Frecuencia": "Diaria",
+  "Etiqueta": "Roja",
+  "id_Usuario": "65850e9376bc0d2ffb8e102f"
+},
+{
+  "_id": {
+    "$oid": "6584fa337ff48f22d35172d0"
+  },
+  "Titulo": "Lavar la ropa",
+  "Descripcion": "Urgente, que se acumula",
+  "Prioridad": 2,
+  "Frecuencia": "Semanal",
+  "Etiqueta": "Roja",
+  "id_Usuario": "65850ed676bc0d2ffb8e1030"
+},
+{
+  "_id": {
+    "$oid": "6584fa3e7ff48f22d35172d1"
+  },
+  "Titulo": "Comer",
+  "Descripcion": "No se te olvide alimentarte, mantener la salud",
+  "Prioridad": 1,
+  "Frecuencia": "Diario",
+  "Etiqueta": "Roja",
+  "id_Usuario": "65850ed676bc0d2ffb8e1030"
+},
+{
+  "_id": {
+    "$oid": "6584fa507ff48f22d35172d2"
+  },
+  "Titulo": "Tratamiento Vitamínico",
+  "Descripcion": "Mantener la buena salud",
+  "Prioridad": 2,
+  "Frecuencia": "Diario",
+  "Etiqueta": "Roja",
+  "id_Usuario": "65850ed676bc0d2ffb8e1030"
+},
+{
+  "_id": {
+    "$oid": "6584fa5b7ff48f22d35172d3"
+  },
+  "Titulo": "Visita Dentista",
+  "Descripcion": "Mínimo una vez al año",
+  "Prioridad": 1,
+  "Frecuencia": "Anual",
+  "Etiqueta": "Roja",
+  "id_Usuario": "65850ed676bc0d2ffb8e1030"
+},
+{
+  "_id": {
+    "$oid": "6584fa697ff48f22d35172d4"
+  },
+  "Titulo": "Pagar SOAT, Revisión Técnica del auto",
+  "Descripcion": "En Octubre se vencen todos los papeles",
+  "Prioridad": 1,
+  "Frecuencia": "Anual",
+  "Etiqueta": "Roja",
+  "id_Usuario": "658514a2916fb7dbaae46c9b"
+},
+{
+  "_id": {
+    "$oid": "6584fa747ff48f22d35172d5"
+  },
+  "Titulo": "Pago de la Colegiatura",
+  "Descripcion": "El plazo vence a fin de mes",
+  "Prioridad": 3,
+  "Frecuencia": "Mensual",
+  "Etiqueta": "Verde",
+  "id_Usuario": "658514a2916fb7dbaae46c9b"
+},
+{
+  "_id": {
+    "$oid": "6584fa9b7ff48f22d35172d6"
+  },
+  "Titulo": "Pago de Servicios del Hogar",
+  "Descripcion": "Agua, Luz,Internet, Gas,Alquiler,Celular",
+  "Prioridad": 1,
+  "Frecuencia": "Mensual",
+  "Etiqueta": "Roja",
+  "id_Usuario": "658514a2916fb7dbaae46c9b"
+},
+{
+  "_id": {
+    "$oid": "6584faa47ff48f22d35172d7"
+  },
+  "Titulo": "Compras de insumos del hogar",
+  "Descripcion": "Supermercado, Mercado",
+  "Prioridad": 2,
+  "Frecuencia": "Semanal",
+  "Etiqueta": "Roja",
+  "id_Usuario": "658514a2916fb7dbaae46c9b"
+},
+{
+  "_id": {
+    "$oid": "6584fab07ff48f22d35172d8"
+  },
+  "Titulo": "Compras de insumos del hogar",
+  "Descripcion": "Supermercado, Mercado",
+  "Prioridad": 2,
+  "Frecuencia": "Semanal",
+  "Etiqueta": "Roja",
+  "id_Usuario": "658514d6916fb7dbaae46c9c"
+},
+{
+  "_id": {
+    "$oid": "6584faba7ff48f22d35172d9"
+  },
+  "Titulo": "Compra de Artículos Personales",
+  "Descripcion": "Bloqueador, Maquillaje, Etc.",
+  "Prioridad": 6,
+  "Frecuencia": "Mensual",
+  "Etiqueta": "Roja",
+  "id_Usuario": "658514d6916fb7dbaae46c9c"
+},
+{
+  "_id": {
+    "$oid": "6584fac67ff48f22d35172da"
+  },
+  "Titulo": "Obsequios",
+  "Descripcion": "Presentes para familiares, amigos, compañeros de trabajo",
+  "Prioridad": 9,
+  "Frecuencia": "Mensual",
+  "Etiqueta": "Roja",
+  "id_Usuario": "658514d6916fb7dbaae46c9c"
+},
+{
+  "_id": {
+    "$oid": "6584fd2c7ff48f22d35172db"
+  },
+  "Titulo": "Obtener Licencia de Conducir",
+  "Descripcion": "Después de obtenerla, sólo renovar",
+  "Prioridad": 5,
+  "Frecuencia": "Una Vez",
+  "Etiqueta": "Roja",
+  "id_Usuario": "658514d6916fb7dbaae46c9c"
+},
+{
+  "_id": {
+    "$oid": "6586e5286ccd1e0fd6b42c9c"
+  },
+  "Titulo": "APROBAR APLICACIONES WEB",
+  "Descripcion": "APROBADOS",
+  "Prioridad": 1,
+  "Frecuencia": "Semanal",
+  "id_Usuario": "65850e9376bc0d2ffb8e102f"
+},
+{
+  "_id": {
+    "$oid": "658ccb2f40dbb37374286e6c"
+  },
+  "Titulo": "APROBAR TODOS LOS CURSOS CON EXCELENCIA",
+  "Descripcion": "TODO APROBADO",
+  "Prioridad": 1,
+  "Frecuencia": "Semanal",
+  "id_Usuario": "65850e9376bc0d2ffb8e102f"
+}]

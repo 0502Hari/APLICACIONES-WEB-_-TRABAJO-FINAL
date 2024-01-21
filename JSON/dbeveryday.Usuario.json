@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65850e9376bc0d2ffb8e102f"
+  },
+  "Nombre": "Pepito Perez",
+  "Correo": "pepitop@gmail.com",
+  "Contraseña": "123456"
+},
+{
+  "_id": {
+    "$oid": "65850ed676bc0d2ffb8e1030"
+  },
+  "Nombre": "Claudia Caceres Salazar",
+  "Correo": "ccaceres@gmail.com",
+  "Contraseña": "456789"
+},
+{
+  "_id": {
+    "$oid": "658514a2916fb7dbaae46c9b"
+  },
+  "Nombre": "Maritza Medina Parado",
+  "Correo": "mmedina@unsa.edu.pe",
+  "Contraseña": "456783"
+},
+{
+  "_id": {
+    "$oid": "658514d6916fb7dbaae46c9c"
+  },
+  "Nombre": "Mario Lopez",
+  "Correo": "mlopez@unsa.edu.pe",
+  "Contraseña": "456783"
+},
+{
+  "_id": {
+    "$oid": "658e32c1113f385820b73251"
+  },
+  "Nombre": "Dasha Milano",
+  "Correo": "dmilano@gmail.com",
+  "Contraseña": "DM1234"
+},
+{
+  "_id": {
+    "$oid": "658e3308113f385820b73252"
+  },
+  "Nombre": "Brenda Carrasco",
+  "Correo": "bcarrasco@gmail.com",
+  "Contraseña": "bc123"
+}]

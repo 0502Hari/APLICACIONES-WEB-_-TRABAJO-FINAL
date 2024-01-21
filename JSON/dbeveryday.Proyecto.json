@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "6586678081008a8a7237f6da"
+  },
+  "Nombre": "Personal",
+  "idArray_Tareas": [
+    "6584f4157ff48f22d35172c8",
+    "6584fa337ff48f22d35172d0",
+    "6584fa3e7ff48f22d35172d1",
+    "6584fa507ff48f22d35172d2",
+    "6584fa5b7ff48f22d35172d3",
+    "6584fa697ff48f22d35172d4",
+    "6584fa9b7ff48f22d35172d6",
+    "6584faa47ff48f22d35172d7",
+    "6584fab07ff48f22d35172d8",
+    "6584faba7ff48f22d35172d9",
+    "6584fac67ff48f22d35172da",
+    "6584fd2c7ff48f22d35172db"
+  ]
+},
+{
+  "_id": {
+    "$oid": "658668d381008a8a7237f6db"
+  },
+  "Nombre": "Laboral",
+  "idArray_Tareas": [
+    "6584fa747ff48f22d35172d5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6586690d81008a8a7237f6dc"
+  },
+  "Nombre": "Estudios",
+  "idArray_Tareas": [
+    "6584f5a07ff48f22d35172c9"
+  ]
+}]
